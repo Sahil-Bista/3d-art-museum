@@ -16,7 +16,7 @@ export function Placeholder({
       <div className="absolute inset-0 flex flex-col items-center justify-center p-6 text-center">
         <IconPhoto className="text-forest/50 mb-3" size={36} />
         <div className="text-xs font-semibold uppercase tracking-wider text-forest/70 mb-2">
-          Image
+          Imag
         </div>
         <div className="text-sm text-ink/70 max-w-sm">{label}</div>
       </div>
