@@ -83,7 +83,7 @@ export function Hero() {
               <div className="mt-8 flex flex-wrap items-center gap-x-4 gap-y-2 text-xs sm:text-sm text-ink/70">
                 {[
                   "200+ Schools Visited",
-                  "Nepal's first Only 3D Art Museum",
+                  "Nepal's First 3D Art Museum",
                   "Fully Supervised",
                   "Curriculum-Aligned Activities",
                 ].map((t, i) => (
